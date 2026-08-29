@@ -1,5 +1,6 @@
-# YuriGarden Manga Downloader Pro - Python Dependencies
 playwright>=1.40.0
 Pillow>=10.0.0
 requests>=2.31.0
 pypresence>=4.3.0
+cryptography>=41.0.0
+pycryptodome>=3.19.0
